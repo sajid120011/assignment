@@ -15,3 +15,7 @@ Problem 03
 Problem 04
 
 ![image](https://github.com/sajid120011/assignment/assets/143250237/ee91e780-1808-4465-81c6-60ac00c3c170)
+
+Problem 05
+
+![image](https://github.com/sajid120011/assignment/assets/143250237/29adf72c-99fc-443a-99e7-2f53623b103e)
